@@ -13,7 +13,7 @@ TelloConsole3
     :caption: 目次:
 
     ./about
-    ./install
+    ./install/index
     ./setup_enviroment
-    ./tutorial
+    ./tutorial/index
     ./references
