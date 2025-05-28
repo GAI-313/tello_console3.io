@@ -9,6 +9,4 @@
     ./mac/index
     ./windows/index
     ./linux/index
-
-.. toctree::
     ./check
