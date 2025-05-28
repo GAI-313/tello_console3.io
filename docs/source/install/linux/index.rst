@@ -5,4 +5,9 @@ Linux
 
 .. toctree::
     :maxdepth: 2
-    :caption: :
+    :numbered:
+
+    ./about_terminal
+    ./dependencies
+    ./clone
+    ./install

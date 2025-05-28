@@ -5,4 +5,6 @@ Windows
 
 .. toctree::
     :maxdepth: 2
-    :caption: :
+    :numbered:
+
+    ./about_powershell
