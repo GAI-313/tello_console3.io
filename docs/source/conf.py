@@ -23,12 +23,16 @@ extensions = [
     'sphinx.ext.viewcode',      # ソースコードへのリンクを追加
     'sphinx_autodoc_typehints', # 型ヒントを表示
     'sphinx_rtd_theme',         # Read the Docs テーマ
+    'sphinx_copybutton',
 ]
 
 templates_path = ['_templates']
 exclude_patterns = []
 
 language = 'ja'
+
+copybutton_prompt_text = r"\$ |# "
+copybutton_prompt_is_regexp = True
 
 # -- Options for HTML output -------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output
