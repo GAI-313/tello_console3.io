@@ -8,4 +8,6 @@ macOS
     :numbered:
 
     ./about_terminal
-
+    ./brew
+    ./python
+    ./tello
